@@ -1,5 +1,9 @@
-### Learning algorithm
+### Learning Algorithm
 
-### Plot of rewards
+#### Hyperparameters
+
+### Results
+
+#### Plot of rewards
 
 ### Ideas for Future Work
