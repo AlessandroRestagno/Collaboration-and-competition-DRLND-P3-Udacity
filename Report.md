@@ -1,5 +1,5 @@
 ### Learning Algorithm
-I stack with the same approach I used in the second project. I used a DDPG (Deep Deterministic Policy Gradient) algorithm and I implemented a Multi Agenti DDPG.
+I stuck with the same approach I used in the second project. I used a DDPG (Deep Deterministic Policy Gradient) algorithm and I implemented a Multi Agenti DDPG.
 The two agents are learning separately, but their using the same replay buffer to improve their performance.
 
 #### Network Architecture
