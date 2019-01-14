@@ -39,7 +39,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 ### Instructions
 
-Follow the instructions in `Tennis.ipynb` to train the agents.  
+Follow the instructions in `Tennis-solution.ipynb` to train the agents.  
 
 ### Model architecture
 More information about the model architecture I used can be find in the [Report.md](/Report.md) file
