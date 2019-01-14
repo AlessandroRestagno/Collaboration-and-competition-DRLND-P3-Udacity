@@ -40,7 +40,7 @@ weight_decay=0.0
 
 ### Results
 
-The results shows that it takes quite some time to train the algorithm. It took more than 7 hours using the first setup and it took more than 5 hours using the final setup. I trained on my local machine using a NVIDIA GeForce GTX 1070 GPU. The training is quite slow at the begininning and it takes thousands of episodes to get to the average of 0.5 over 100 episodes.
+The results shows that it takes quite some time to train the algorithm. It took more than 11 hours using the first setup and it took more than 5 hours using the final setup. I trained on my local machine using a NVIDIA GeForce GTX 1070 GPU. The training is quite slow at the begininning and it takes thousands of episodes to get to the average of 0.5 over 100 episodes.
 
 Confronting the previous setup and the final setup, it looks that decreasing the learning rate and gamma stabilizes learning and improves performance.
 
