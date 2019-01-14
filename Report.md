@@ -1,6 +1,6 @@
 ### Learning Algorithm
 I stuck with the same approach I used in the second project. I used a DDPG (Deep Deterministic Policy Gradient) algorithm and I implemented a Multi Agenti DDPG.
-As another [Udacity student](https://github.com/blangwallner/Udacity-Deep-Reinforcement-Learning-ND---Project-3---Collaboration-and-Competition) did, The two agents are learning separately, but their using the same replay buffer to improve their performance.
+As another [Udacity student](https://github.com/blangwallner/Udacity-Deep-Reinforcement-Learning-ND---Project-3---Collaboration-and-Competition) did, the two agents are learning separately, but their using the same replay buffer to improve their performance.
 
 #### Network Architecture
 As in the previous project, adding layers to the neural network augmented the performance of the algorithm. The final actor neural network has 4 fully connected hidden layers of size 256, 128, 64 and 32.
