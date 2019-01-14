@@ -10,10 +10,49 @@ I used ReLU as the activation function and tanh is used in the final layer to re
 
 #### Hyperparameters
 
+##### Final setup:
+
+buffer_size=10000,
+batch_size=1024,
+gamma=0.97,
+update_every=2,
+noise_start=1.0,
+noise_decay=1.0,
+t_stop_noise=30000
+tau=1e-3,
+lr_actor=1e-5,
+lr_critic=1e-4,
+weight_decay=0.0
+
+##### Previous setup:
+
+buffer_size=10000,
+batch_size=1024,
+gamma=0.99,
+update_every=2,
+noise_start=1.0,
+noise_decay=1.0,
+t_stop_noise=30000
+tau=1e-3,
+lr_actor=1e-4,
+lr_critic=1e-3,
+weight_decay=0.0
 
 ### Results
 
 #### Plot of rewards
+
+##### Final setup:
+
+##### Previous setup:
+
+![first_try](/images/Firsttry.PNG)
+
+![second_try](/images/secondtry.PNG)
+
+![third_try](/images/Thirdtry.PNG)
+
+![fourth_try](/images/Fourthtry.PNG)
 
 ### Ideas for Future Work
 As mentioned in the Deep Reinforcement Learning Nanodegree course Proximal Policy Optimization (PPO),  Asynchronous Actor-Critic Agents (A3C) and Distributed Distributional Deep Determininistic Policy Gradient (D4PG) are some of the best option to improve performance.
