@@ -48,9 +48,9 @@ Confronting the previous setup and the final setup, it looks that decreasing the
 
 ##### Final setup:
 
-![fifthtry1](/images/Fifhtry1.PNG)
+![fifthtry1](/images/fifthtry1.PNG)
 
-![fifthtry2](/images/Fifhtry2.PNG)
+![fifthtry2](/images/fifthtry2.PNG)
 
 
 ##### Previous setup:
