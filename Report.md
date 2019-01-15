@@ -12,18 +12,17 @@ I used ReLU as the activation function and tanh is used in the final layer to re
 
 ##### Final setup:
 
-buffer_size=10000 /n
-
-batch_size=1024 /n
-gamma=0.97 /n
-update_every=2 /n
-noise_start=1.0 /n
-noise_decay=1.0 /n
-t_stop_noise=30000 /n
-tau=1e-3 /n
-lr_actor=1e-5 /n
-lr_critic=1e-4 /n
-weight_decay=0.0 /n
+buffer_size=10000  
+batch_size=1024  
+gamma=0.97  
+update_every=2  
+noise_start=1.0  
+noise_decay=1.0  
+t_stop_noise=30000  
+tau=1e-3  
+lr_actor=1e-5  
+lr_critic=1e-4  
+weight_decay=0.0  
 
 ##### Previous setup:
 
