@@ -13,6 +13,7 @@ I used ReLU as the activation function and tanh is used in the final layer to re
 ##### Final setup:
 
 buffer_size=10000 /n
+
 batch_size=1024 /n
 gamma=0.97 /n
 update_every=2 /n
